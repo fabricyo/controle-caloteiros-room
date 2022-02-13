@@ -5,17 +5,17 @@ Usando a tecnologia Room para gerenciar e fazer a persistência dos dados, além
 para o bootcamp "Sportheca Mobile Developer"
 
 
-## Adicionar (Toque no float button)
+## Adicionar (toque no float button)
 ![](gifs/Adicionar.gif)
 
 ## Editar usando um simples diálogo (toque no "+1")
 ![](gifs/Editar_dialog.gif)
 
-## Tela de edição com menu dropdown personalizado (Toque longo)
+## Tela de edição com menu dropdown personalizado (toque longo)
 ![](gifs/Editar.gif)
 
 O dropdown deu bastante trabalho, usei um ArrayAdapter custommizado
 
 
-## Detalhar e compartilhar (Toque simples)
+## Detalhar e compartilhar (toque simples)
 ![](gifs/Compartilhar.gif)
