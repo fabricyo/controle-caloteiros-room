@@ -8,12 +8,12 @@ para o bootcamp "Sportheca Mobile Developer"
 ## Adicionar
 ![](gifs/Adicionar.gif)
 
-## Editar usando um simples diálogo
+## Editar usando um simples diálogo (toque no "+1")
 ![](gifs/Editar_dialog.gif)
 
-## Tela de edição com menu dropdown personalizado
+## Tela de edição com menu dropdown personalizado (Toque longo)
 ![](gifs/Editar.gif)
 
 
-## Compartilhar
+## Detalhar e compartilhar (Toque simples)
 ![](gifs/Compartilhar.gif)
