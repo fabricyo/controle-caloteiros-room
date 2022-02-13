@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quando Deve</string>
+    <string name="txt_add_debt">Adicionar débito</string>
+    <string name="txt_add_pax">Btn para adicionar passageiro</string>
+
+    <string name="label_share">Compartilhar</string>
+    <string name="label_debitos">Caloteiros</string>
+    <string name="label_add_debt">Adicionar caloteiro</string>
+    <string name="label_nome">Nome</string>
+    <string name="btn_back">Btn de Voltar</string>
+    <string name="label_valor">Valor</string>
+    <string name="label_confirmar">Confirmar</string>
+    <string name="label_edit_debt">Editar</string>
+    <string name="label_delete_debt">Esquecer do calote</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_detail_debt">Detalhes do calote</string>
+    <string name="chip_empty">--</string>
+</resources>
