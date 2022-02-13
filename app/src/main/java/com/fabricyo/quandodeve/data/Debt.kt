@@ -20,7 +20,4 @@ data class Debt(
         return 0
     }
 
-    override fun writeToParcel(dest: Parcel?, flags: Int) {
-        TODO("Not yet implemented e nem irei")
-    }
 }
