@@ -14,8 +14,7 @@ para o bootcamp "Sportheca Mobile Developer"
 ## Tela de edição com menu dropdown personalizado (toque longo)
 ![](gifs/Editar.gif)
 
-O dropdown deu bastante trabalho, usei um ArrayAdapter custommizado
-
+O dropdown deu bastante trabalho, usei um ArrayAdapter customizado
 
 ## Detalhar e compartilhar (toque simples)
 ![](gifs/Compartilhar.gif)
